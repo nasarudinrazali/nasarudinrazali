@@ -1,4 +1,3 @@
-
 Hello there , I’m M.Nasarudin M.Razali 👋
 
 About Me
@@ -10,9 +9,8 @@ Tech Stack
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,html,css,mysql,git)](https://skills.thijs.gg)
 
-Testing Tool:
--Selenium
--Rest Assured
+Testing Tool: Selenium,Rest Assured, Jenkins
+
 
 🤝🏻  Connect with Me : nasdean42@gmail.com
 
