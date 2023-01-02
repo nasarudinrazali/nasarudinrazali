@@ -10,7 +10,9 @@ Tech Stack
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,html,css,mysql,git)](https://skills.thijs.gg)
 
-
+Testing Tool:
+-Selenium
+-Rest Assured
 
 🤝🏻  Connect with Me : nasdean42@gmail.com
 
