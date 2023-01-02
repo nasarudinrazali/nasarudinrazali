@@ -3,8 +3,7 @@ Hello there , I’m M.Nasarudin M.Razali 👋
 About Me
 - 💼Freelance QA Tester who is into automation testing
 - 🎓Studied Business Administration(Finance) in International Islamic University Malaysia
-- 📫 I’m currently improving myself to be well versed in frontend and backend testing
-
+- 📫 I’m currently improving myself to be well versed in automation testing in both frontend and backend
 Tech Stack
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,html,css,mysql,git)](https://skills.thijs.gg)
