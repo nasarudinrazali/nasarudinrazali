@@ -9,7 +9,7 @@ Tech Stack
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,html,css,mysql,git)](https://skills.thijs.gg)
 
-Testing Tool: Selenium,Rest Assured, Jenkins, Eclipse, Visual Studio, ADB(Android Debug Bridge), Charles Proxy
+Testing Tool: Selenium,Rest Assured, Postman, Jenkins, Eclipse, Visual Studio, ADB, Charles Proxy
 
 
 🤝🏻  Connect with Me : nasdean42@gmail.com
