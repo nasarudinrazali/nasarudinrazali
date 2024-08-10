@@ -1,7 +1,7 @@
 Hello there , I’m M.Nasarudin M.Razali 👋
 
 About Me
-- 💼Freelance QA Tester who is into automation testing
+- 💼Associate QA Automation Engineer
 - 🎓Studied Business Administration(Finance) in International Islamic University Malaysia
 - 📫 I’m currently improving myself to be well versed in automation testing covering both frontend and backend testing
 
@@ -9,7 +9,7 @@ Tech Stack
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,html,css,mysql,git)](https://skills.thijs.gg)
 
-Testing Tool: Selenium,Rest Assured, Postman, TestNG/Junit, Cucumber, Jenkins, Eclipse, Visual Studio, ADB, Charles Proxy
+Testing Tool: Selenium,Rest Assured, Katalon, Springboot, Postman, TestNG/Junit, Cucumber, Jenkins, Eclipse, Visual Studio, ADB, Charles Proxy
 
 
 🤝🏻  Connect with Me : nasdean42@gmail.com
