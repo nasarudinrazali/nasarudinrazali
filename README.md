@@ -7,9 +7,11 @@ About Me
 
 Tech Stack and Testing Tools:
 
-Testing Tool: Selenium, Appium, Rest Assured, Katalon, Springboot, Postman, Mocha,TestNG/Junit, Cucumber, Jmeter, Jenkins, Eclipse, Visual Studio, ADB, Charles Proxy
+Selenium, Appium, Rest Assured, Katalon, Springboot, Postman, Mocha,TestNG/Junit, Cucumber, Jmeter, Jenkins, Eclipse, Visual Studio, ADB, Charles Proxy
 
-Programming Languages: Java, Typescript, Javascript
+Programming Languages: 
+
+Java, Typescript, Javascript
 
 
 🤝🏻  Connect with Me : nasdean42@gmail.com
