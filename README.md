@@ -5,11 +5,9 @@ About Me
 - 🎓Studied Business Administration(Finance) in International Islamic University Malaysia
 - 📫 I’m currently improving myself to be well versed in automation testing covering both frontend and backend testing
 
-Tech Stack
+Tech Stack and Testing Tools:
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,html,css,mysql,git)](https://skills.thijs.gg)
-
-Testing Tool: Selenium, Rest Assured, Katalon, Springboot, Postman, Mocha,TestNG/Junit, Cucumber, Jmeter, Jenkins, Eclipse, Visual Studio, ADB, Charles Proxy
+Testing Tool: Selenium, Appium, Rest Assured, Katalon, Springboot, Postman, Mocha,TestNG/Junit, Cucumber, Jmeter, Jenkins, Eclipse, Visual Studio, ADB, Charles Proxy
 Programming Languages: Java, Typescript, Javascript
 
 
