@@ -9,7 +9,8 @@ Tech Stack
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,html,css,mysql,git)](https://skills.thijs.gg)
 
-Testing Tool: Selenium, Rest Assured, Katalon, Springboot, Postman, TestNG/Junit, Cucumber, Jenkins, Eclipse, Visual Studio, ADB, Charles Proxy
+Testing Tool: Selenium, Rest Assured, Katalon, Springboot, Postman, Mocha,TestNG/Junit, Cucumber, Jmeter, Jenkins, Eclipse, Visual Studio, ADB, Charles Proxy
+Programming Languages: Java, Typescript, Javascript
 
 
 🤝🏻  Connect with Me : nasdean42@gmail.com
